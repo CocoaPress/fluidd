@@ -17,7 +17,7 @@ export const defaultState = (): ConfigState => {
     instances: [],
     uiSettings: {
       general: {
-        instanceName: Globals.APP_NAME,
+        instanceName: Globals.BRANDED_NAME,
         locale: 'en',
         chartVisible: true,
         hideTempWaits: true,
@@ -74,9 +74,9 @@ export const defaultState = (): ConfigState => {
       theme: {
         isDark: true,
         logo: {
-          src: 'logo_fluidd.svg'
+          src: 'logo_cocoapress.svg'
         },
-        color: '#2196F3',
+        color: '#F27121',
         backgroundLogo: true
       },
       editor: {

@@ -16,6 +16,22 @@
       }
     },
     {
+      "name": "Cocoa Press",
+      "color": "#F27121",
+      "isDark": true,
+      "logo": {
+        "src": "logo_cocoapress.svg"
+      }
+    },
+    {
+      "name": "Cocoa Press (Pride)",
+      "color": "#F27121",
+      "isDark": true,
+      "logo": {
+        "src": "logo_cocoapress_pride.svg"
+      }
+    },
+    {
       "name": "Annex",
       "color": "#96CC4A",
       "isDark": true,
